@@ -108,5 +108,5 @@ IEEE GECOST 2025 — Privacy-preserving RAG using locally hosted LLaMA2 (Ollama)
 </p>
 
 <p align="center">
-  <a href="mailto:tallapallimadhu12@gmail.com">📧 tallapallimadhu12@gmail.com</a> • <a href="#">🌐 Portfolio</a>
+  <a href="mailto:tallapallimadhu12@gmail.com">📧 tallapallimadhu12@gmail.com</a> • <a href="https://madhuportfolio-bay.vercel.app/">🌐 Portfolio</a>
 </p>
