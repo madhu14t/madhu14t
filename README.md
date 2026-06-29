@@ -94,37 +94,6 @@ IEEE GECOST 2025 — Privacy-preserving RAG using locally hosted LLaMA2 (Ollama)
 | 📚 **[RAG for Document Q&A](#)** | Local LLaMA2 + Ollama + LangChain Q&A system, 20% faster document retrieval, zero cloud cost |
 | 🗳️ **[Online Voting App](#)** | Full-stack MERN voting platform — 85% increase in voter participation |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhu14t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu14t&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu14t&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu14t&theme=tokyonight" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu14t&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhu14t&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ### 🎓 Certifications
 
 - ✅ MERN Full Stack Development — ETHNUS
