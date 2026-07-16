@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/" target="[_blank](https://www.linkedin.com/in/tallapalli-madhu-sudhana)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tallapallimadhu12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=madhu14t&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
 ---
