@@ -69,7 +69,8 @@ data sources (ServiceNow CMDB, 105K+ assets) for production-scale query resoluti
 
 ### 💼 Experience Highlights
 
-**AI & Data Scientist — Ascendion** *(Aug 2025 – Present)*
+**GenAI Engineer — Ascendion** *(Aug 2025 – Present)*
+
 ● Developed a high-performance Retrieval-Augmented Generation system by integrating ServiceNow CMDB data, generating 
 embeddings via Azure services, and deploying scalable APIs, achieving 99% query resolution accuracy.  
 ● Designed an enterprise-grade advanced RAG chatbot using Azure OpenAI (GPT-4) and Azure AI Search to enable natural 
@@ -83,7 +84,11 @@ applications across multiple environments, maintaining sub-second response times
 Lambda, S3, ECR, EC2), supporting model training, deployment, and orchestration for enterprise scale applications.  
 
 **Machine Learning Engineer Intern — GO YAANA** *(Aug 2023 – Oct 2023)*
-- Built a regression model on 10,000+ data points — **91% improvement** in recommendation accuracy
+
+● Developed a regression model trained on 10,000+ data points, refining feature selection to improve model accuracy by 91% 
+for personalized travel destination recommendations.  
+● Performed comprehensive data preprocessing, analysis, and visualization using Matplotlib and Seaborn to support strategic 
+planning decisions.  
 
 ---
 
