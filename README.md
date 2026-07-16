@@ -11,11 +11,12 @@
 
 ### 🚀 About Me
 
-- 🔭 GenAI Engineer at **Ascendion** (Department: Generative AI), building enterprise RAG chatbots over **105,999+ CMDB assets** with **~99% query accuracy**
-- 📝 IEEE-published researcher — privacy-preserving RAG for PDF Q&A using local LLMs
-- 🧠 Deep focus on **LLMs, RAG, NLP, Multi-Agent Systems (LangChain, LangGraph, CrewAI)**
-- ☁️ Comfortable across **Azure OpenAI, AWS (SageMaker, Lambda, S3, ECR, EC2)** and on-prem deployments
-- 🎓 B.Tech, Computer Science — Vellore Institute of Technology (GPA: 8.67/10)
+GenAI Engineer with 1+ year of hands-on experience building production-grade Retrieval Augmented Generation (RAG) 
+systems, LLM pipelines, and multi-agent AI architectures. Proficient in Python, LangChain, LangGraph, CrewAI, Azure OpenAI 
+(GPT-4), ServiceNow, and AWS MLOps services (SageMaker, Lambda, S3). Delivered enterprise AI solutions achieving 99% 
+query accuracy and 25% reduction in MTTR. IEEE-published researcher in privacy-preserving retrieval systems, with a strong 
+foundation in NLP and Deep Learning. Experienced in deploying multi-agent orchestration pipelines integrated with enterprise 
+data sources (ServiceNow CMDB, 105K+ assets) for production-scale query resolution. 
 - 📫 Reach me at **tallapallimadhu12@gmail.com**
 
 ---
@@ -69,10 +70,17 @@
 ### 💼 Experience Highlights
 
 **AI & Data Scientist — Ascendion** *(Aug 2025 – Present)*
-- Built an enterprise RAG chatbot using Azure OpenAI (GPT-4) + Azure AI Search over 105,999+ CMDB assets — **~99% response accuracy**
-- Designed a 3-stage LLM processing pipeline solving date normalization & entity disambiguation
-- Delivered a production-ready, highly available system with disaster recovery, sub-second response times
-- Built end-to-end ML pipelines using LangGraph, CrewAI, Docker, and AWS (SageMaker, Lambda, S3, ECR, EC2)
+● Developed a high-performance Retrieval-Augmented Generation system by integrating ServiceNow CMDB data, generating 
+embeddings via Azure services, and deploying scalable APIs, achieving 99% query resolution accuracy.  
+● Designed an enterprise-grade advanced RAG chatbot using Azure OpenAI (GPT-4) and Azure AI Search to enable natural 
+language querying over 105,999+ CMDB assets, reducing average query resolution time and achieving ~99% response 
+accuracy.  
+● Built a robust three-stage LLM processing pipeline in Python, resolving complex data challenges including date 
+normalization and entity disambiguation to support advanced query patterns.  
+● Delivered a production-ready, highly available system with a disaster recovery strategy supporting hundreds of enterprise 
+applications across multiple environments, maintaining sub-second response times and enabling rapid redeployment.  
+● Designed and deployed end-to-end AI/ML pipelines using LangGraph, CrewAI, Docker, and AWS services (SageMaker, 
+Lambda, S3, ECR, EC2), supporting model training, deployment, and orchestration for enterprise scale applications.  
 
 **Machine Learning Engineer Intern — GO YAANA** *(Aug 2023 – Oct 2023)*
 - Built a regression model on 10,000+ data points — **91% improvement** in recommendation accuracy
@@ -86,16 +94,11 @@ IEEE GECOST 2025 — Privacy-preserving RAG using locally hosted LLaMA2 (Ollama)
 
 ---
 
-### 🌟 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🤖 **[AI-Powered Dual-Agent Network Troubleshooter](#)** | Dual-agent LLM + RAG system cutting MTTR by 25%, automating ticket-based recommendations |
-| 📚 **[RAG for Document Q&A](#)** | Local LLaMA2 + Ollama + LangChain Q&A system, 20% faster document retrieval, zero cloud cost |
-| 🗳️ **[Online Voting App](#)** | Full-stack MERN voting platform — 85% increase in voter participation |
 
 ### 🎓 Certifications
 
+- ✅ AWS Certified AI Certification — Amazon
 - ✅ MERN Full Stack Development — ETHNUS
 - ✅ Generative AI & ChatGPT — GeeksforGeeks
 - ✅ Generative AI Level 101, 201, 301 — Cognixia
