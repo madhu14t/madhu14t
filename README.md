@@ -2,7 +2,7 @@
 <h3 align="center">GenAI Engineer | Building Production-Grade RAG Systems & Multi-Agent AI Architectures</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/" target="[_blank](https://www.linkedin.com/in/tallapalli-madhu-sudhana)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tallapallimadhu12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=madhu14t&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
@@ -95,7 +95,12 @@ planning decisions.
 ### 📄 Featured Publication
 
 **"Revolutionizing PDF Q&A with Local LLMs and Privacy-Enhanced Retrieval-Augmented Generation"**
-IEEE GECOST 2025 — Privacy-preserving RAG using locally hosted LLaMA2 (Ollama), ChromaDB semantic retrieval, **ROUGE-L F1: 0.508** on SQuAD.
+
+● Developed a novel privacy-preserving RAG system for PDF question answering by leveraging a locally hosted LLaMA2 
+model via Ollama, eliminating cloud dependency and enhancing data security.  
+● Improved semantic retrieval accuracy using ChromaDB and cosine similarity for enhanced context extraction. Evaluated the 
+system on the SQuAD dataset, achieving a ROUGE-L F1 score of 0.508, demonstrating strong contextual alignment. 
+● Built an interactive Streamlit interface for secure document ingestion and real-time Q&A without reliance on cloud APIs.  
 
 ---
 
